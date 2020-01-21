@@ -201,3 +201,5 @@ encoding <- encoding %>%
   mutate(Rate = round((Deaths/Population)*100000, 1))
 
 write.csv(encoding, file = "interactive_data.csv")
+
+// still writing for class 
