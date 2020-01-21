@@ -202,4 +202,8 @@ encoding <- encoding %>%
 
 write.csv(encoding, file = "interactive_data.csv")
 
-// still writing for class 
+<<<<<<< HEAD
+// still writing for class
+=======
+                              //adding a new line
+>>>>>>> b3a77c984b7a13c2454518e1cff6a5bbe9d1f11b
