@@ -1,4 +1,5 @@
-# This code processes data from the CDC's Multiple Cause of Death datafile to prepare it for FiveThirtyEight's 
+# for dataScience
+# This code processes data from the CDC's Multiple Cause of Death datafile to prepare it for FiveThirtyEight's
 # "Gun Death in America" project.
 # This code is designed to work in conjunction with 'CDC_parser.R' elsewhere in this repo. To match FiveThirtyEight's
 # published data, use years 2012-2014.
